@@ -3,24 +3,16 @@ UI Clone - Twitter Responsive
 </h1>
 
 <p align="center">Responsive Twitter UI Clone (partial) for study purposes.</p>
-<p align="center">Deployed <a href="https://rocketseat-twitter-clone.netlify.app/">here</a>.</p>
+<p align="center">Deployed <a href="https://brunoananias-clone-twitter.netlify.app/">here</a>.</p>
 
-<p align="center">
-  <a href="https://github.com/Rocketseat/youtube-clone-twitter/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/rocketseat/youtube-clone-twitter?color=%236633cc&logoColor=%236633cc&style=flat" alt="Contributors">
-  </a>
-  <a href="https://opensource.org/licenses/MIT">
-    <img src="https://img.shields.io/github/license/rocketseat/youtube-clone-twitter?color=%236633cc&logo=mit" alt="License">
-  </a>
-</p>
 
 <hr>
 
 ## Participants
 
-[<img src="https://avatars3.githubusercontent.com/u/10366880?s=460&v=4" width="75px;"/>](https://github.com/guilhermerodz)
+[<img src="https://avatars1.githubusercontent.com/u/4417927?&v=4" width="75px;"/>](https://github.com/brunoananias2)
 
-[Guilherme Rodz](https://github.com/guilhermerodz)
+[Bruno Ananias](https://github.com/brunoananias2)
 
 ## Techs
 
